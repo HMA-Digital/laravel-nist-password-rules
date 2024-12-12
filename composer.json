@@ -51,6 +51,11 @@
             "type": "vcs",
             "url": "https://github.com/HMA-Digital/laravel-password-exposed-validation-rule.git",
             "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/HMA-Digital/password-exposed",
+            "no-api": true
         }
     ],
     "config": {
