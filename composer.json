@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.2",
         "laravel/framework": "^5.5||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0",
-        "divineomega/laravel-password-exposed-validation-rule": "^4.0"
+        "divineomega/laravel-password-exposed-validation-rule": "dev-laravel-11-upgrade"
     },
     "require-dev": {
         "fakerphp/faker": "^1.14.1|^1.9.1",
@@ -55,6 +55,11 @@
         {
             "type": "vcs",
             "url": "https://github.com/langleyfoxall/DO-File-Cache-PSR-6",
+            "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/HMA-Digital/laravel-password-exposed-validation-rule.git",
             "no-api": true
         }
     ],
