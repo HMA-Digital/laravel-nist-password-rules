@@ -39,11 +39,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/langleyfoxall/laravel-password-exposed-validation-rule",
-            "no-api": true
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/langleyfoxall/password_exposed",
             "no-api": true
         },
